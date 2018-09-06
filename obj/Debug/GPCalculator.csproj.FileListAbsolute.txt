@@ -1,0 +1,6 @@
+c:\users\emmanuel\documents\visual studio 2015\Projects\GPCalculator\GPCalculator\bin\Debug\GPCalculator.exe.config
+c:\users\emmanuel\documents\visual studio 2015\Projects\GPCalculator\GPCalculator\obj\Debug\GPCalculator.csprojResolveAssemblyReference.cache
+c:\users\emmanuel\documents\visual studio 2015\Projects\GPCalculator\GPCalculator\bin\Debug\GPCalculator.exe
+c:\users\emmanuel\documents\visual studio 2015\Projects\GPCalculator\GPCalculator\bin\Debug\GPCalculator.pdb
+c:\users\emmanuel\documents\visual studio 2015\Projects\GPCalculator\GPCalculator\obj\Debug\GPCalculator.exe
+c:\users\emmanuel\documents\visual studio 2015\Projects\GPCalculator\GPCalculator\obj\Debug\GPCalculator.pdb
